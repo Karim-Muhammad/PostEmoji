@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PostEmoji/static/css/main.71b98dc6.css",
+    "main.js": "/PostEmoji/static/js/main.0929734b.js",
+    "index.html": "/PostEmoji/index.html",
+    "main.71b98dc6.css.map": "/PostEmoji/static/css/main.71b98dc6.css.map",
+    "main.0929734b.js.map": "/PostEmoji/static/js/main.0929734b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b98dc6.css",
+    "static/js/main.0929734b.js"
+  ]
+}
